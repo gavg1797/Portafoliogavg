@@ -1,0 +1,13 @@
+.formcontato__textarea{
+    display: block;
+    margin: 0 auto;
+}
+
+#mensagem.formcontato__textarea {
+    margin: 0 auto;
+    display: block;
+    padding: 10px 25px;
+    border: 5px;
+    width: 50%;
+    border-radius: 15px ;
+}

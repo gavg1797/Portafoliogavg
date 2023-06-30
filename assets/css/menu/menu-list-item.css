@@ -1,0 +1,10 @@
+.menu__list__item{
+    display: inline-block;
+    margin: 5px;
+    padding-right: 10px;
+}
+
+.menu__list__item:hover{
+    color: var(--enviar-mensaje-boton-azul);
+    text-decoration: underline;
+}

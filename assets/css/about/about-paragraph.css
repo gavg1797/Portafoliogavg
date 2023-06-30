@@ -1,0 +1,9 @@
+.about__paragraph{
+    display: flex;
+    
+    flex-direction: column;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 16px;
+    text-align: justify;
+}

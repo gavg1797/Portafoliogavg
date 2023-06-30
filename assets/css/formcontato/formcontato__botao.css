@@ -1,0 +1,11 @@
+.formcontato__botao{
+    float:right;
+    width: 10px auto;
+    margin: auto;
+    padding: 3px;
+    border: 10px;
+    border-color: black;
+    border-radius: 3px;
+    font-size: 16px;
+    
+}

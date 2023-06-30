@@ -1,0 +1,10 @@
+.formcontato__img{
+    background-image: url(../../imagenes/unsplash_JYGnB9gTCls.png);
+}
+
+img.formcontato__img{
+    float: left;
+    max-width: 22.5%;
+}
+
+    

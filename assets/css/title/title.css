@@ -1,0 +1,6 @@
+.titulo{
+    display: inline-block;
+    width: 1136px;
+    justify-content: space-between;
+    align-items: center;
+}

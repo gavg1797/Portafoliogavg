@@ -1,0 +1,9 @@
+.menu{
+    display: flex;
+    width: 100%;
+    padding: 2rem 0rem;
+    justify-content: space-between;
+    align-items: center;
+    background: var(--color-de-fundo) ;
+    border-radius: 8px;
+}
