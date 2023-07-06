@@ -1,7 +1,7 @@
 .academic{
     background: var(--formacion--color);
     width: 100%;
-    padding: 15px;
+    padding: 25px 25px 10px 25px;
     display: grid;
 }
 

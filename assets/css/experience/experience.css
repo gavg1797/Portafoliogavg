@@ -1,17 +1,17 @@
 .experience{
+   background: var(--color-de-fundo);
    display: grid;
-   padding: 20px 10px 10px 20px;
    width: 100%;
-   background: var(--color-de-fundo);    
+   padding: 25px 25px 0 0;      
 }
 
-@media (min-width: 768px) {
+@media (max-width: 768px) {
    .experience{
       
    }
 }
 
-@media (min-width: 425px) {
+@media (max-width: 425px) {
     .experience{
       
    }

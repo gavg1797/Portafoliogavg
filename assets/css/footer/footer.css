@@ -1,5 +1,5 @@
 .footer{
     background: var(--footer--background);
     width: 100%;
-    padding-top: 10px;
+    padding: 5px 25px 5px 25px;
 }

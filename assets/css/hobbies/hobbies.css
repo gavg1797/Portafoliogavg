@@ -1,7 +1,7 @@
 .hobbies{
     display: grid;
     width: 100%;
-    padding: 15px;
+    padding: 25px 25px 14px 25px;
     align-items: center;
     background: var(--skills-hobbies);
     

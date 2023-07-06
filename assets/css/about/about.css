@@ -2,6 +2,20 @@
     background: var(--color-de-fondo-sobreMi-azul);
     display: flex;
     width: 100%;
-    padding: 15px;
+    padding: 25px 25px 5px 25px;
     align-items: center;
+}
+
+@media (max-width: 768px) {
+    .about{
+
+    }
+}
+
+@media (max-width: 425px) {
+    .about{
+        width: 100%;
+        padding: 25px 25px 25px 25px;
+        
+    }
 }

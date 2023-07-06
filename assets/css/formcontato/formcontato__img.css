@@ -1,16 +1,15 @@
 .formcontato__img{
-    background-image: url(../../imagenes/unsplash_JYGnB9gTCls.png);
+    width: 30%;
+    height: 400px;
+    padding: 2% 34%;
 }
 
-img.formcontato__img{
-    float: left;
-    max-width: 22.5%;
-}
 
 @media screen and (max-width: 425px) {
-    img.formcontato__img .formcontato__img{
-        background-image: none;
-        float: none;
+    .formcontato__img{
+        width: 34%;
+        height: 168px;
+        padding: 4% 32% 0;
         }
     }
 

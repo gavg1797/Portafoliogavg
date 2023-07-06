@@ -5,5 +5,7 @@
 @media screen and (max-width: 425px) {
     .skills__line{
         display: inline-table;
+        object-position: center;
+        padding: 23px 0px 0px 48px;
         }
     }

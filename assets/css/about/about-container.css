@@ -1,4 +1,5 @@
 .about__container{
     display: grid;
     padding: 10px;
+    width: 95%;
 }
