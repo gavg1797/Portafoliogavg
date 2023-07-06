@@ -1,4 +1,7 @@
 .skills{
-    background: var(--skills-hobbies);
-    padding: 20px;
+    display: grid;
+    width: 100%;
+    padding: 15px;
+    background: var(--skills-hobbies); 
+    align-items: center;  
 }

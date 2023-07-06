@@ -1,5 +1,5 @@
 .formcontato{
     background: var( --color-de-fondo-contato);
+    display:inline;
     width: 100%;
-    padding: 15px;
 }

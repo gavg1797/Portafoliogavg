@@ -1,3 +1,5 @@
 .formcontato__text{
     padding: 15px;
+    display: inline;
+    width: 100px;
 }
