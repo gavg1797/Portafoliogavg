@@ -4,3 +4,15 @@
     justify-content: space-between;
     align-items: center;
 }
+
+@media (max-width: 768px) {
+    .titulo{
+
+    }
+}
+
+@media (max-width: 425px) {
+    .titulo{
+
+    }
+}

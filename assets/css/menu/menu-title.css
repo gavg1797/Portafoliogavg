@@ -2,3 +2,10 @@
     padding-left: 10px;
     text-align: left;
 }
+
+@media screen and (max-width: 425px) {
+    .title__profile{
+        padding-left: 3px;
+        text-align: left;
+    }
+}

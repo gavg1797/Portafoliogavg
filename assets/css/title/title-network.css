@@ -1,3 +1,12 @@
 .title__network{
     text-align: justify;
 }
+
+@media screen and (max-width: 425px) {
+    .title__network{
+        display: flex;
+        flex-direction: row;
+        text-align: justify;
+        
+        }
+    }

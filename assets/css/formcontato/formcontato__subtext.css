@@ -1,6 +1,6 @@
 .formcontato__subtext{
-    display: flexbox;
+    display: block;
     text-align: center;
-    font-size: 16px;
+    font-size: 18px;
     
 }

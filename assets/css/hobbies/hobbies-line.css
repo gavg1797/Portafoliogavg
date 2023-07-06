@@ -1,0 +1,9 @@
+.hobbies__line{
+    display: flex;
+    justify-content: center;
+}
+@media screen and (max-width: 425px) {
+    .hobbies__line{
+        display: inline-table;
+        }
+    }

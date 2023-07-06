@@ -1,4 +1,4 @@
 .about__container{
-    display: inline;
+    display: grid;
     padding: 10px;
 }

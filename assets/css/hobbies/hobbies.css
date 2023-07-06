@@ -6,3 +6,15 @@
     background: var(--skills-hobbies);
     
 }
+
+@media (max-width: 768px) {
+    .hobbies{
+
+    }
+}
+
+@media (max-width: 425px) {
+    .hobbies{
+
+    }
+}

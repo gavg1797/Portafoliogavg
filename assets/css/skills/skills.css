@@ -5,3 +5,15 @@
     background: var(--skills-hobbies); 
     align-items: center;  
 }
+
+@media (max-width: 768px) {
+    .skills{
+
+    }
+}
+
+@media (max-width: 425px) {
+    .skills{
+
+    }
+}

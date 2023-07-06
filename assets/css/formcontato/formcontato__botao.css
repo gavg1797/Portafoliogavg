@@ -1,11 +1,20 @@
 .formcontato__botao{
-    float:right;
-    width: 10px auto;
-    margin: auto;
-    padding: 3px;
+    margin: 15px;
+    display: inline-block;
+    padding: 5px 10px 5px 10px;
+    width: 135px;
+    height: 60px;
     border: 10px;
-    border-color: black;
-    border-radius: 3px;
-    font-size: 16px;
+    background-color: #6EA6FF;
+    border-radius: 12px;
+    color: white;
+    font-size: 14px;
+    left: 73%;
+    position: relative;
     
+}
+
+.formcontato__botao:hover{
+    transition: 0.5s;
+    background-color: #2B6EFF;
 }

@@ -7,3 +7,14 @@
     max-width: 300px;
     
 }
+
+@media screen and (max-width: 425px) {
+    .title__profile{
+    float: none;
+    width: 270px;
+    height: 270px;
+    padding-left: 20%;
+    padding-top: 10px;
+    max-width: 300px;
+    }
+}

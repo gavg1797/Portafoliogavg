@@ -7,4 +7,11 @@ img.formcontato__img{
     max-width: 22.5%;
 }
 
+@media screen and (max-width: 425px) {
+    img.formcontato__img .formcontato__img{
+        background-image: none;
+        float: none;
+        }
+    }
+
     

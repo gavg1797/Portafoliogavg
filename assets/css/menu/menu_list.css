@@ -3,3 +3,12 @@
     margin: 100px;
     
 }
+
+@media screen and (max-width: 425px) {
+    .title__profile{
+        list-style: none;
+        font-size: 13px;
+        text-align: start;
+        padding-right: 15px;
+    }
+}

@@ -4,3 +4,14 @@
     font-size: 20px;
     padding-left: 10px;
 }
+
+@media screen and (max-width: 425px) {
+    .title__subsection{
+        display: inline-block;
+        height: 55px;
+        font-size: 17px;
+        padding-left: 48px;
+        padding-right: 22px;
+        text-align: justify;
+        }
+}

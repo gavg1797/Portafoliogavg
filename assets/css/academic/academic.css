@@ -3,6 +3,16 @@
     width: 100%;
     padding: 15px;
     display: grid;
-    
-    
+}
+
+@media (max-width: 768px) {
+    .academic{
+
+    }
+}
+
+@media (max-width: 425px) {
+    .academic{
+
+    }
 }

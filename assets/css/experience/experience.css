@@ -4,3 +4,15 @@
    width: 100%;
    background: var(--color-de-fundo);    
 }
+
+@media (min-width: 768px) {
+   .experience{
+      
+   }
+}
+
+@media (min-width: 425px) {
+    .experience{
+      
+   }
+}

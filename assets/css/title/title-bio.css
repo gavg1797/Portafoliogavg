@@ -4,3 +4,11 @@
 	height: 55px;
     padding-left: 10px;	
 }
+
+@media screen and (max-width: 425px) {
+    .title__bio{
+        font-size: 23px;
+        padding-right: 20px;
+        text-align: end;
+    }
+}
