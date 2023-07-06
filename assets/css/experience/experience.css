@@ -5,14 +5,14 @@
    padding: 25px 25px 0 0;      
 }
 
-@media (max-width: 768px) {
+@media screen and (max-width: 768px) {
    .experience{
-      
+      width: 100%;
    }
 }
 
-@media (max-width: 425px) {
+@media screen and (max-width: 425px) {
     .experience{
-      
+      width:100%;
    }
 }

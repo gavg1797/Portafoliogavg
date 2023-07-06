@@ -7,14 +7,14 @@
     
 }
 
-@media (max-width: 768px) {
+@media screen and (max-width: 768px) {
     .hobbies{
-
+        width: 100%;
     }
 }
 
-@media (max-width: 425px) {
+@media screen and (max-width: 425px) {
     .hobbies{
-
+        width: 100%;
     }
 }
